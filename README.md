@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @quantumcodes
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning optimization using quantum algorithms
-- 💞️ I’m looking to collaborate on the same as above and other quantum applications
 - 📫 Email me at: vishal [at] entropicalabs.com 
 
 <!---
